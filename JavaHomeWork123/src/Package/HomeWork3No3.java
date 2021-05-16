@@ -10,7 +10,7 @@ public class HomeWork3No3 {
 		Scanner input=new Scanner(System.in);	
 		System.out.println("Enter number 1 to 7"); 
 		int i=0;
-		int n=7;
+		int n=3;
 	int day=n;
 	switch (day) {
 	case 1:

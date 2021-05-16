@@ -1,4 +1,4 @@
-package Qno5;
+/*package Qno5;
 
 import java.util.regex.Pattern;
 
@@ -24,8 +24,12 @@ public class Qno5 {
 	}
 	}
 	private static boolean isValid(String s) {
-		// TODO Auto-generated method stub
-		return false;
+		if(isValid(s_1)) {
+			System.out.println("Valid Number");
+		}
+		else {
+			System.out.println("Invalid number");
+	}
 	}
 
-}
+}*/
